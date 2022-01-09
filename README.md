@@ -43,3 +43,16 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # Job-App
+
+
+<img src="./public/ss1.png" alt="SS1"/>
+<hr/>
+<img src="./public/ss2.png" alt="SS2"/>
+
+
+# Functionalities
+ - Authentication (Firebase Authentication)
+ - Realtime Database (Firestore)
+ - Redux is used to maintain the state of a user logged in
+ - You can send posts in realtime
+ - Logout by clicking the ME icon in the navbar
